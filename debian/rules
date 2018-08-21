@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_auto_configure:
+	dh_auto_configure -- --disable-static --disable-x11 --disable-v4l2_core --disable-v4lsink PLATFORM=MX8
+
+override_dh_install:
+	rm -rf debian/imx-gst1.0-plugin/usr/include
+	dh_install
