@@ -8,7 +8,8 @@ Build-Depends:
  imx-vpuwrap-dev (= 4.3.4),
  libgstreamer1.0-dev (= 1.12.2+imx),
  libgstreamer-plugins-base1.0-dev (= 1.12.2+imx),
- libgstreamer-plugins-bad1.0-0 (= 1.12.2+imx),
+ libgstreamer-plugins-bad1.0-dev (= 1.12.2+imx),
+ linux-headers-4.9.51-aiy (>=1),
 Standards-Version: 4.1.1
 
 Package: imx-gst1.0-plugin
