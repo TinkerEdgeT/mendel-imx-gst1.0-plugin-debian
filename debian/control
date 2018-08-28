@@ -1,6 +1,7 @@
 Source: imx-gst1.0-plugin
 Priority: optional
 Maintainer: AIY Projects <support-aiyprojects@google.com>
+Section: libs
 Build-Depends:
  debhelper (>=10),
  libdrm-dev (= 2.4.84+imx),
