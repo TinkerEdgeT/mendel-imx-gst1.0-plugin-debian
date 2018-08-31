@@ -4,7 +4,7 @@ Maintainer: AIY Projects <support-aiyprojects@google.com>
 Section: libs
 Build-Depends:
  debhelper (>=10),
- libdrm-dev (= 2.4.84+imx),
+ libdrm-imx-dev (>= 2.4.84+imx),
  imx-vpu-hantro-dev (=1.6.0),
  imx-vpuwrap-dev (= 4.3.4),
  libgstreamer1.0-dev (= 1.12.2+imx),
@@ -20,7 +20,6 @@ Priority: optional
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
- libdrm2 (= 2.4.84+imx),
  imx-vpu-hantro (=1.6.0),
  imx-vpuwrap (= 4.3.4),
  gstreamer1.0-plugins-base (= 1.12.2+imx),
