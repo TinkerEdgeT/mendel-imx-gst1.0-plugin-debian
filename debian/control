@@ -15,7 +15,7 @@ Standards-Version: 4.1.1
 
 Package: imx-gst1.0-plugin
 Section: libs
-Architecture: arm64
+Architecture: arm64 armhf
 Priority: optional
 Depends:
  ${shlibs:Depends},
