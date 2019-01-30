@@ -1,3 +1,9 @@
+imx-gst1.0-plugin (4.3.4-2) beaker; urgency=medium
+
+  * Use the correct linux-image version number.
+
+ -- AIY Projects <support-aiyprojects@google.com>  Wed, 30 Jan 2019 12:00:00 -0800
+
 imx-gst1.0-plugin (4.3.4-1) beaker; urgency=medium
 
   * Cut branch for beaker
