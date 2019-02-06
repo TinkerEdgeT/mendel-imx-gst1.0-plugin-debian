@@ -1,3 +1,9 @@
+imx-gst1.0-plugin (4.3.4-3) beaker; urgency=medium
+
+  * Require vpudec jpeg input to be parsed.
+
+ -- AIY Projects <support-aiyprojects@google.com>  Wed, 06 Feb 2019 14:57:42 -0800
+
 imx-gst1.0-plugin (4.3.4-2) beaker; urgency=medium
 
   * Use the correct linux-image version number.
