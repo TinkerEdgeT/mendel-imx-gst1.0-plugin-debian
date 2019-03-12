@@ -2,22 +2,22 @@ imx-gst1.0-plugin (4.3.4-3) beaker; urgency=medium
 
   * Require vpudec jpeg input to be parsed.
 
- -- AIY Projects <coral-support@google.com>  Wed, 06 Feb 2019 14:57:42 -0800
+ -- Coral <coral-support@google.com>  Wed, 06 Feb 2019 14:57:42 -0800
 
 imx-gst1.0-plugin (4.3.4-2) beaker; urgency=medium
 
   * Use the correct linux-image version number.
 
- -- AIY Projects <coral-support@google.com>  Wed, 30 Jan 2019 12:00:00 -0800
+ -- Coral <coral-support@google.com>  Wed, 30 Jan 2019 12:00:00 -0800
 
 imx-gst1.0-plugin (4.3.4-1) beaker; urgency=medium
 
   * Cut branch for beaker
 
- -- AIY Projects <coral-support@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
+ -- Coral <coral-support@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
 
 imx-gst1.0-plugin (4.3.4-0) unstable; urgency=medium
 
   * Initial release
 
- -- AIY Projects <coral-support@google.com>  Wed, 04 Jul 2018 10:45:53 -0800
+ -- Coral <coral-support@google.com>  Wed, 04 Jul 2018 10:45:53 -0800

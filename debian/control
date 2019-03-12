@@ -1,6 +1,6 @@
 Source: imx-gst1.0-plugin
 Priority: optional
-Maintainer: AIY Projects <coral-support@google.com>
+Maintainer: Coral <coral-support@google.com>
 Section: libs
 Build-Depends:
  debhelper (>=10),
