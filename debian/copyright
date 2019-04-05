@@ -1,3 +1,14 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: imx-gst1.0-plugin
+Source: https://coral.googlesource.com/imx-gst1.0-plugin
+
+Files: debian/*
+Copyright: Copyright 2018 Google, LLC <coral-support@google.com>
+License: Apache-2.0
+
+Files: *
+Copyright: NXP
+License: LGPL-2
                   GNU LIBRARY GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 

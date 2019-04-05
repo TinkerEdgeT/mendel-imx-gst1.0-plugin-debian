@@ -26,3 +26,5 @@ Depends:
  libgstreamer-plugins-base1.0-0 (>= 1.12.2+imx),
  libgstreamer-plugins-bad1.0-0 (>= 1.12.2+imx),
 Description: IMX GStreamer plugin.
+ Gstreamer plugins with support for features
+ specific to the i.MX8 platform.
