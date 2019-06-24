@@ -1,3 +1,9 @@
+imx-gst1.0-plugin (4.4.5-5) UNRELEASED; urgency=medium
+
+  * Update to 4.4.5
+
+ -- Coral <coral-support@google.com>  Thu, 06 Jun 2019 10:32:12 -0700
+
 imx-gst1.0-plugin (4.3.4-4) mendel-chef; urgency=medium
 
   * Never re-allocate buffer pool if caps haven't changed.
